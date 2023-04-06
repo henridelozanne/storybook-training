@@ -5,7 +5,7 @@
       <div v-for="n in 6" :key="n" class="loading-item">
         <span class="glow-checkbox" />
         <span class="glow-text">
-          <span>Loadingg</span> <span>cool</span> <span>state</span>
+          <span>Loading</span> <span>cool</span> <span>state</span>
         </span>
       </div>
     </template>
